@@ -1,0 +1,78 @@
+{ 
+"data":{
+    "name": "Cool quiz for Eloops",
+    "game_id": "werlkjsdfsdf",
+    "points": 15,
+    "thank_you_message": "At the end show this message to the user",
+    "questions": [
+      {
+        "question_id": "1",
+        "question": "What's the name of the new American president?",
+        "question_url": "If the question_type:image, then the question_url contains a link to an image",
+        "question_type": "text",
+        "options": [
+          {
+            "option_id": 0,
+            "value": "a text question or an image url",
+            "option_type": "text/image"
+          },
+          {
+            "option_id": 1,
+            "value": "Joe Biden",
+            "option_type": "text"
+          },
+          {
+            "option_id": 2,
+            "value": "Trump",
+            "option_type": "text"
+          }
+          ]
+      },
+      {
+        "question_id": "2",
+        "question": "What's the name of Israel Prime minister?",
+        "question_url": "",
+        "question_type": "text",
+        "options": [
+          {
+            "option_id": 0,
+            "value": "Bibi",
+            "option_type": "text"
+          },
+          {
+            "option_id": 1,
+            "value": "Joe Biden",
+            "option_type": "text"
+          },
+          {
+            "option_id": 2,
+            "value": "Trump",
+            "option_type": "text"
+          }
+          ]
+      },
+      {
+        "question_id": "3",
+        "question": "Where is the American embassy located at?",
+        "question_url": "",
+        "question_type": "text",
+        "options": [
+          {
+            "option_id": 0,
+            "value": "Tel Aviv",
+            "option_type": "text"
+          },
+          {
+            "option_id": 1,
+            "value": "Jerusalem",
+            "option_type": "text"
+          },
+          {
+            "option_id": 2,
+            "value": "Holon",
+            "option_type": "text"
+          }
+          ]
+      }]
+  }
+}
