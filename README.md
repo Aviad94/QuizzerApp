@@ -1,6 +1,6 @@
 # QuizzerApp
 
-<div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/LocalWeather-iOS/blob/master/Screenshot/Quizer's Screenshot.png" width="20%" height="20%" align="right"></div>
+<div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/QuizzerApp/blob/master/Screenshot/Quizer's Screenshot.png" width="20%" height="20%" align="right"></div>
 
 
 
