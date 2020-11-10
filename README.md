@@ -6,44 +6,32 @@
 
 ## Overview
 
-TEXT
+`QuizzerApp-IOS` is a Quiz app with few questions, you can gain points and see if you got some knowleague
+
 
 ### Keyword
 - Swift
 - Auto Layout
-- JSON & Codable
-- MVC
-- CoreLocation
+- JSON & URLSession
+- MVC !
+- Animations
 
 
 ## Getting Started
 
 ### Prerequisites
 
-- A valid API key from Openweathermap
 - A Mac running macOS Catalina 
 - Xcode 11.3.1
-- An iphone if you would like to run it on your iphone
+- An iphone if you would like to run it on your iphone( was checked and it works fine ).
 
 ### Installation
 
 1. Clone or download the project to your local machine
 2. Open the project in Xcode
-3. Replace `YOURAPIKEY` with your valid Openweathermap API key in `NetworkManager.swift`
-
-```swift
-struct NetworkManager {
-
-    
-    private let weatherURL = "https://api.openweathermap.org/data/2.5/forecast?appid="YOURAPIKEY"&units=metric" 
-```
-
-
-
-5. Run the simulator
+3. Run the simulator
+4. Have fun :)
 
 ## Thanks to
 
-Open API from [OpenWeatherMap](https://openweathermap.org/api)
-
-Inspiring project from 
+MockAPI for doing this URL request easy.
